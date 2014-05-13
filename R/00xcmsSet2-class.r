@@ -1,0 +1,1 @@
+setClass(Class="xcmsSet2", slots="xcmsRaw", contains="xcmsSet", package="xcms", prototype=(xcmsRaw=list()) )
